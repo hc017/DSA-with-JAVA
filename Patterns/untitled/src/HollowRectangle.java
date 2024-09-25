@@ -1,4 +1,10 @@
 public class HollowRectangle {
+    /*
+     *****
+     *   *
+     *   *
+     *****
+     */
     public static void main(String[] args) {
         int n = 4;
         int m = 5;

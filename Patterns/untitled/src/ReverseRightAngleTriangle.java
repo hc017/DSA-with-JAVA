@@ -1,4 +1,13 @@
 public class ReverseRightAngleTriangle {
+
+    /*
+
+     ****
+     ***
+     **
+     *
+
+     */
     public static void main(String[] args) {
         int n = 4;
         //Outer loop
