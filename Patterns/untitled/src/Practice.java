@@ -7,6 +7,7 @@ public class Practice {
                 System.out.print("*");
             }
             System.out.println("");
+            
         }
     }
 }
